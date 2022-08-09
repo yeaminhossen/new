@@ -1,0 +1,180 @@
+.header-section{
+    background: #F0FFF0;
+}
+.banner-section{
+    background: #F0FFF0;
+}
+.banner h5 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+
+.banner h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+    color: #000000;
+}
+
+.banner h2 span {
+    color: #21B573;
+}
+
+.banner p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+}
+.col-lg-4.banner a {
+    text-decoration: none;
+    background: #21B573;
+    color: #fFf;
+    padding: 7px 22px;
+    border-radius: 33px;
+    border: 1px solid black;
+}
+.col-lg-4.banner {
+    margin-top: 80px;
+}
+.banner-images {
+    width: 66px;
+    height: 85px;
+}
+
+.card {
+    width: 270px;
+    height: 270px;
+    background: #F8FFFB;
+    border-radius: 10px;
+    padding: 37px;
+    text-align: center;
+    margin-right: 15px;
+}
+.row.mt-5 {
+    justify-content: center;
+}
+.col-lg-3.col-md-6.card:hover {
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+h2.text {
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+}
+.gallris-one {
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgb(0 0 0 / 10%);
+    border-radius: 18px;
+    padding: 14px;
+}
+.gallris-one a {
+    text-decoration: none;
+    color: #fff;
+    background: #21B573;
+    padding: 8px 28px;
+    border-radius: 16px;
+}
+.marufa h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+    margin-top: 20px;
+}
+
+.nusrat h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+    margin-top: 20px;
+}
+.gallary {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.col-lg-4.col-md-6.gallris-one {
+    flex-basis: 32%;
+}
+.testmonial {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 70px;
+}
+.col-lg-4.team {
+    text-align: right;
+}
+.footer-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 18px;
+}
+
+.col-lg-3.footer h4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+}
+h3.text-white {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 42px;
+}
+i.fa-solid.fa-bicycle {
+    margin-right: 5px;
+    color: #21B573;
+}
+
+i.fa-solid.fa-computer {
+    margin-right: 9px;
+    color: #21B573;
+}
+.col-lg-4.banner a:hover {
+    background: red;
+    transition: .5s;
+    padding: 9px 40px;
+    border: none;
+    color: #ddd;
+}
+.col-lg-4.col-md-6.gallris-one a:hover {
+    color: red;
+    background: red;
+    transition: .5s;
+    padding: 9px 40px;
+    border: none;
+    color: #ddd;
+}
+.this-class{
+    font-weight: 700px;
+    font-size: 50px;
+    
+}
